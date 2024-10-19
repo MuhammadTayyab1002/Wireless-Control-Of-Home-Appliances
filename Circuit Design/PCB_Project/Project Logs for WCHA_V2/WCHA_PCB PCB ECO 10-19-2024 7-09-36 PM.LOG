@@ -1,0 +1,29 @@
+Added Component: Designator=J8(JST_B10B-XH-A(LF)(SN))
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B10B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=S1 Pin=IC1-1
+Added Pin To Net: NetName=S1 Pin=J8-10
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=IC1-2
+Added Pin To Net: NetName=S2 Pin=J8-9
+Added Net: Name=S2
+Added Pin To Net: NetName=S3 Pin=IC1-3
+Added Pin To Net: NetName=S3 Pin=J8-8
+Added Net: Name=S3
+Added Pin To Net: NetName=S4 Pin=IC1-4
+Added Pin To Net: NetName=S4 Pin=J8-7
+Added Net: Name=S4
+Added Pin To Net: NetName=S5 Pin=IC1-5
+Added Pin To Net: NetName=S5 Pin=J8-6
+Added Net: Name=S5
+Added Pin To Net: NetName=S6 Pin=IC1-6
+Added Pin To Net: NetName=S6 Pin=J8-5
+Added Net: Name=S6
+Added Member To Class: ClassName=WCHA_SCH Member=Component J8 B10B-XH-A(LF)(SN)
+Added Member To Class: ClassName=WCHA_SCH Member=Component SW1 PTS645SM43SMTR92LFS

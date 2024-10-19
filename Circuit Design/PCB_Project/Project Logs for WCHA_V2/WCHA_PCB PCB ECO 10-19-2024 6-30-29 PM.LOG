@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Added Member To Class: ClassName=WCHA_SCH Member=Component J3 2EDGRC-5.08-02P-14-00A_H_
+Added Member To Class: ClassName=WCHA_SCH Member=Component J4 2EDGRC-5.08-02P-14-00A_H_
+Added Member To Class: ClassName=WCHA_SCH Member=Component J5 2EDGRC-5.08-02P-14-00A_H_
+Added Member To Class: ClassName=WCHA_SCH Member=Component J6 2EDGRC-5.08-02P-14-00A_H_
+Added Member To Class: ClassName=WCHA_SCH Member=Component J7 2EDGRC-5.08-02P-14-00A_H_
