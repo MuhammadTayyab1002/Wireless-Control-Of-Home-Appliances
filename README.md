@@ -25,13 +25,13 @@ This project provides a complete solution for controlling home appliances wirele
 
 ## Circuit Design
 
-![Circuit Diagram](Circuit Design/PCB_Project/WCHA V2 PCB.png)
+![Circuit Diagram](Circuit%20Design/PCB_Project/WCHA_V2_PCB.png)
 
 This folder includes circuit diagrams essential for the operation of the wireless control system. The diagrams show the connection layout for the microcontroller, wireless module, and appliance control mechanisms.
 
 ## Product Design (3D)
 
-![3D Enclosure](Product Design/WCHA V2 v1.png)
+![3D Enclosure](Product%20Design/WCHA_V2_v1.png)
 
 This folder includes 3D design files for the physical components, such as enclosures and holders, that house the electronics. The designs are optimized for easy assembly and protection of components.
 
