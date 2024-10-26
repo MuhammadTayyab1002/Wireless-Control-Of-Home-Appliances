@@ -19,9 +19,9 @@ This project provides a complete solution for controlling home appliances wirele
 
 ## Repository Structure
 
-- **circuit design**: Contains the circuit diagrams and schematics for the wireless control system.
-- **product design (3D design)**: Includes 3D design files for enclosures and other physical components.
-- **firmware**: Contains the source code for the embedded microcontroller, developed in **Keil C51**.
+- **Circuit Design**: Contains the circuit diagrams and schematics for the wireless control system.
+- **Product Design (3D design)**: Includes 3D design files for enclosures and other physical components.
+- **Firmware**: Contains the source code for the embedded microcontroller, developed in **Keil C51**.
 
 ## Circuit Design
 
